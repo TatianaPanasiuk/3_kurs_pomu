@@ -1,13 +1,4 @@
-aaaaaa
-second str aaa
+second hermia
 
-aaaaaaaaaaaaaaaaaaaaaaaa
 
---------------------------------
-+++++++++++++++++++++++++++++++
-sdfghjk
-zxcvbnm,
-
-asdfghjk
-zxcvbnmfhju
-zxcbcvkjlhi
+asdfghjkl;
